@@ -1,0 +1,56 @@
+body {
+	max-width: 100%;
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+.container {
+	width: 100%;
+}
+
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+}
+
+.img-responsive {
+	max-width: 300px;
+	max-height: 200px;
+}
+	
+.text-muted {
+	color: orange;
+}
+
+.text-uppercase {
+	text-align: center;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 60px;
+	color: orange;
+}
+
+.subtitle {
+	color: purple;
+	font-size: 20px
+}
+
+.title-logo {
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+
+/* Media Queries */
+
+
+
+
+
+
